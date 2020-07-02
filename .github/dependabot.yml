@@ -5,7 +5,7 @@
 
 version: 2
 updates:
-  - package-manager: "javascript" 
+  - package-manager: "java:maven" 
     directory: "/" # Location of package manifests
     schedule:
       interval: "daily"
